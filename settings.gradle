@@ -1,0 +1,2 @@
+include ':app', ':contract', ':retrofit_support', ':result', ':commons', ':capture', ':foreground', ':recycler', ':recycler_fragment', ':bus',
+        ':services', ':tasks', ':utilities', ':sqlite', ':prefs', ':injection', ':permissions'
